@@ -1,6 +1,6 @@
 ## Oi, eu sou a Gisa! Estudante de programação e tecnologia.
 <div align="center">
-  <a href="https://github.com/GislaineAmaro">
+  <a href="https://github.com/GislaineAmaro"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gislaineamaro&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gislaineamaro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
