@@ -5,7 +5,7 @@
  ##### Meu nome é Gislaine, mas todo mundo me chama de Gisa. Eu estudo e trabalho com desenvolvimento :sparkles: front-end :sparkles:há menos de um ano, também gosto de idealizar e prototipar interfaces para aplicações. Meus conhecimentos e experiências se concentram em react, typescript, chackra ui/ bootstrap, HTML e CSS. Durante meu tempo livre estou devorando livros. 
 
  #### :sparkles: Essas são as tecnologias que eu estou estudando
- lido com elas durante o minah rotina no trabalh ou em meus estudos pessoais.
+ Eu lido com elas na minha rotina de trabalho ou em meus estudos pessoais.
 <div style="display: inline_block"><br>
   <img align="center" alt="Gisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gisa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
