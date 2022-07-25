@@ -1,8 +1,7 @@
 #### :sparkles: Sobre mim...
    ###
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/885256392263495713/904378466567331900/download20211000113226.png">
   
- ##### Meu nome é Gislaine, mas todo mundo me chama de Gisa. Eu estudo e trabalho com desenvolvimento :sparkles: front-end :sparkles:há menos de um ano, além disso gosto de idealizar e prototipar interfaces para aplicações. Meus conhecimentos e experiências se concentram em react, javascript, chackra ui e outras libs voltadas para o front-end. Durante meu tempo livre estou devorando livros. 
+ ##### Meu nome é Gislaine, mas todo mundo me chama de Gisa. Eu estudo e trabalho com desenvolvimento :sparkles: front-end :sparkles:há um ano, além disso gosto de idealizar e prototipar interfaces para aplicações. Meus conhecimentos e experiências se concentram em react Js, javascript, chackra ui e outras libs voltadas para o front-end. Durante meu tempo livre estou devorando livros. 
 
  #### :sparkles: Essas são as tecnologias que eu estou estudando
  Eu lido com elas na minha rotina de trabalho ou em meus estudos pessoais.
